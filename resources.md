@@ -45,6 +45,8 @@ Al-Saggaf, Y., & Islam, M. Z. (2015). Data Mining and Privacy of Social Network 
 [algorithmic hiring: Zeynep Tufekci](https://www.youtube.com/watch?v=i7exygaylmY)
 
 [Data Science Ethical Framework, via UK.gov](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/524298/Data_science_ethics_framework_v1.0_for_publication__1_.pdf)
+## Data Privacy
+* [A Reactive Approach for Use-Based Privacy, Eleanor Birrell Fred B. Schneider, 2017](http://www.cs.cornell.edu/fbs/publications/UBP.avanance.pdf)
 
 ## Data Breaches
 * [Testimony to US Congress about data breaches](https://www.troyhunt.com/heres-what-im-telling-us-congress-about-data-breaches/)
