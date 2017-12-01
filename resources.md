@@ -50,3 +50,6 @@ Al-Saggaf, Y., & Islam, M. Z. (2015). Data Mining and Privacy of Social Network 
 
 ## Data Breaches
 * [Testimony to US Congress about data breaches](https://www.troyhunt.com/heres-what-im-telling-us-congress-about-data-breaches/)
+
+## Bad examples, horror stories
+* [Expensify sent images with personal data to Mechanical Turkers, calls it a feature](https://arstechnica.com/information-technology/2017/11/expensify-acknowledges-potential-privacy-problem-by-calling-it-a-feature/)
