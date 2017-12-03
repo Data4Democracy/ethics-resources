@@ -1,3 +1,7 @@
+# Resource summaries, currently in progress
+
+[Google Drive link to resource summaries](https://drive.google.com/drive/u/0/folders/1_BJ7odgOgk4AglkXV3uQvhSkaFXURqDj)
+
 # Proposed Ethics in Data Science Resource Links
 
 [DATA SCIENCE CODE OF PROFESSIONAL CONDUCT, Prepared by the Data Science Association](http://www.datascienceassn.org/code-of-conduct.html)  
