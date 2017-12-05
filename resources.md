@@ -12,6 +12,7 @@
 
 [https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/524298/Data_science_ethics_framework_v1.0_for_publication__1_.pdf](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/524298/Data_science_ethics_framework_v1.0_for_publication__1_.pdf)
 
+## Algorithmic governance
 Monmonier, M. (2005). Lying with Maps. Statistical Science, 20(3), 215-222. [pdf](http://archi-intranet.ulb.ac.be/cours/sis/conception/lyingwithmaps.pdf) [book review](http://eprints.utm.my/5014/1/How.pdf)
 
 Ananny, M. (2016). Toward an Ethics of Algorithms. Science, Technology & Human Values, 41(1), 93-117. doi:10.1177/0162243915606523
@@ -49,6 +50,10 @@ Al-Saggaf, Y., & Islam, M. Z. (2015). Data Mining and Privacy of Social Network 
 [algorithmic hiring: Zeynep Tufekci](https://www.youtube.com/watch?v=i7exygaylmY)
 
 [Data Science Ethical Framework, via UK.gov](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/524298/Data_science_ethics_framework_v1.0_for_publication__1_.pdf)
+
+## Civic Hacking
+Schrock, A. R. (2016) Civic hacking as data activism and advocacy: A history from publicity to open government data. New Media & Society, 18, 581-599.
+
 ## Data Privacy
 * [A Reactive Approach for Use-Based Privacy, Eleanor Birrell Fred B. Schneider, 2017](http://www.cs.cornell.edu/fbs/publications/UBP.avanance.pdf)
 
