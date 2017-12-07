@@ -4,9 +4,35 @@ Data for Democracy is partnering with Bloomberg and BrightHive to develop a **co
 
 By hosting discussions among data scientists, we hope to better capture the diverse interests, needs, and concerns that are at play in the community, and put together a code that is truly created by data scientists, for data scientists. 
 
-Read more [here](http://datafordemocracy.org/projects/ethics.html)
+Read more [here](http://datafordemocracy.org/projects/ethics.html).
 
-# How can you contribute with ideas?
+## What has been done so far?
+---
+We conducted a preliminary scan in the Data for Democracy community, by posting discussion questions on Slack and Twitter, and collecting feedback and input from our 2,000-plus members. We then **identified recurring themes** that our community members highlighted as important, and arranged these in a systematic framework. This was made by a [list of resources](https://docs.google.com/document/d/1XwXmfIkQxXPidDT7domqEOC7KLcBVLAmSP_7V3g47j8/edit?usp=sharing) addressing the topic.
+
+After that, seven groups of work, formed by volunteers are doing an in-depth discussion of each topic area. Each group is meeting once every 2 weeks, for 1 to 2 hours each time to convey these analysis. Finally, a selected group of advisors will review the notes and gives feedback.
+
+The aim is to have a draft version by February 6th to be presented at the Data for Good Exchange celebrated in San Francisco ([D4GX](https://www.bloomberg.com/company/d4gx/))
+
+The topic areas that the volunteers are discussing are:
+- Data Ownership and Provenance
+- Bias and Mitigation
+- Responsible Communications
+- Privacy and Security
+- Transparency and Openness
+- Questions and Answers
+- Thought Diversity
+
+If you want to keep up to date about what is happening in each meeting, visit this other repo for [meeting materials](https://github.com/Data4Democracy/meeting-materials).
+
+## Working Group Roles and Leadership Team
+---
+- Lilian Huang - [**Research and Analysis**](https://docs.google.com/spreadsheets/d/14f7bxky2UgOXEmK8TH8TuRgZhXwGdTupQ-kNuPyACn8/edit?usp=drivesdk) - Working Groups Lead and coordinates volunteers through the research and literature reviews.
+- Natalie Evans Harris - [**Advisors**](https://docs.google.com/spreadsheets/d/1fNq4PX_QZ88RqsIeb5MT2ZWOmScQsFNy5A4t43lIvIU/edit?usp=drivesdk) - Initiative Lead and coordinates volunteers focused on guiding the development of the Code of Ethics, including advising on additional research areas and questions to ask of the community.
+- Erin Stein - [**Moderators/Principles**](https://docs.google.com/spreadsheets/d/14f7bxky2UgOXEmK8TH8TuRgZhXwGdTupQ-kNuPyACn8/edit?usp=drivesdk) - Coordinates volunteers in drafting the principles and moderating the working groups.
+- Danny Buerkli - [**Process**](https://github.com/orgs/Data4Democracy/teams/ethics) - Ensures an open and transparent process that is sustainable in the long-run. Our primary interactions will be through GitHub and project dashboards.
+
+## How can you contribute with ideas?
 ---
 In order for this process to be as transparent and open as possible, we are making use of GitHub to collect ideas and suggestions from the community as a whole. This provides a quick and easy way for you to do the following-
 
@@ -31,3 +57,5 @@ The setup of GitHub presents you with all suggestions. However, please keep in m
 This document is written and edited using GitHub flavored Markdown. It's not scary, it's very simple and they even provide a cheatsheet which you can use [*here*](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 Shout out to [Ashley Blewer's blog post](https://ablwr.github.io/blog/2014/11/03/non-technical-persons-guide-to-becoming-an-open-source-software-contributor-via-github/) for breaking down the pull request so succiently.
+
+
