@@ -15,6 +15,7 @@ A script file can be parsed and analysed to investigate individual function inpu
 
 ####Resources/ Working Groups
 http://end-to-end-provenance.github.io/
+https://www.slideshare.net/pinarpink/data-provenance-principles-and-why-it-matters-for-biomedical-applications
 
 ####Existing tools
 Some existing tools that claim to track data provenance :
