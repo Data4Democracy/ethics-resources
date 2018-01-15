@@ -62,3 +62,26 @@ Schrock, A. R. (2016) Civic hacking as data activism and advocacy: A history fro
 
 ## Bad examples, horror stories
 * [Expensify sent images with personal data to Mechanical Turkers, calls it a feature](https://arstechnica.com/information-technology/2017/11/expensify-acknowledges-potential-privacy-problem-by-calling-it-a-feature/)
+
+## Provenance Tooling 
+
+####Resources/ Working Groups
+http://end-to-end-provenance.github.io/
+
+####Existing tools
+Some existing tools that claim to track data provenance :
+
+*R script*
+
+* https://github.com/NCEAS/recordr
+* https://github.com/End-to-end-provenance/RDataTracker - creates a data derivation graph (DDG) that keeps track of data in an intuitive way. Provides dynamic tracking
+
+*Python*
+
+* https://github.com/trungdong/prov: A python library implementing W3C PROV
+* http://prov.readthedocs.io/en/latest/readme.html
+* https://github.com/Data2Semantics/prov-o-matic ipython/ jupyter notebook integration of tools to generate W3C PROV serializations. Uses Python decorators around functions. Session persistent.
+* https://github.com/recipy/recipy - add line at top of code to record meta-data for each run.
+
+
+
