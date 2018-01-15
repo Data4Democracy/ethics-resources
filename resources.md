@@ -62,3 +62,4 @@ Schrock, A. R. (2016) Civic hacking as data activism and advocacy: A history fro
 
 ## Bad examples, horror stories
 * [Expensify sent images with personal data to Mechanical Turkers, calls it a feature](https://arstechnica.com/information-technology/2017/11/expensify-acknowledges-potential-privacy-problem-by-calling-it-a-feature/)
+
