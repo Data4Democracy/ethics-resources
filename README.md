@@ -39,7 +39,7 @@ In order for this process to be as transparent and open as possible, we are maki
 1. **Submit titles or links of literature/resources** that you have found useful in thinking about ethics and data science. You can do so at this here by forking the repo and making the change in your text editor and submitting a pull request or directly in the [resources.md](https://github.com/Data4Democracy/ethics-resources/blob/master/resources.md) file.
 
 ```
-if you are not familiar with GitHub. (.md stands for Markdown, a way to format writing on the web easily-cheatsheet link below). If you click on the link, it’ll take you to a page that only loads the resources.md file. On the right side, above the beginning of the document, there is a button with a pencil icon. This allows you edit the file and add your links without having to fork the repo to your computer, use the command line, or any other thing but the content management system built into GitHub.
+If you are not familiar with GitHub. (.md stands for Markdown, a way to format writing on the web easily-cheatsheet link below). If you click on the link, it’ll take you to a page that only loads the resources.md file. On the right side, above the beginning of the document, there is a button with a pencil icon. This allows you edit the file and add your links without having to fork the repo to your computer, use the command line, or any other thing but the content management system built into GitHub.
 ```
 
 2. **Submit links including comments on what matters to you** when creating a data science code of ethics. Open a pull request from your forked repo. 
@@ -54,7 +54,7 @@ If you click the “Commit changes” button when using GitHub's content managem
 ```
 The setup of GitHub presents you with all suggestions. However, please keep in mind that none of these suggestions are mutually exclusive; we are not pitting ideas against each other or using the number of votes to eliminate suggestions. We are simply using this as one convenient metric to determine which ideas have the most resonance in the community, or which resources/literature have been useful to a large number of people. If all suggestions presented are important to you, feel free to :thumbsup: all of them. If you have a more detailed response or would like to express your thoughts on someone else's idea, you can submit this comment in the Ethics Team's Discussion area or comment directly on their open pull request.
 ```
-This document is written and edited using GitHub flavored Markdown. It's not scary, it's very simple and they even provide a cheatsheet which you can use [*here*](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+This document is written and edited using GitHub flavored Markdown. It's not scary, it's very simple and they even provide a cheatsheet which you can find [*here*](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 Shout out to [Ashley Blewer's blog post](https://ablwr.github.io/blog/2014/11/03/non-technical-persons-guide-to-becoming-an-open-source-software-contributor-via-github/) for breaking down the pull request so succiently.
 
