@@ -12,7 +12,7 @@ We conducted a preliminary scan in the Data for Democracy community, by posting 
 
 After that, seven groups of work, formed by volunteers are doing an in-depth discussion of each topic area. Each group is meeting once every 2 weeks, for 1 to 2 hours each time to convey these analysis. Finally, a selected group of advisors will review the notes and gives feedback.
 
-The aim is to have a draft version by February 6th to be presented at the Data for Good Exchange celebrated in San Francisco ([D4GX](https://www.bloomberg.com/company/d4gx/))
+The aim was to have a draft version by February 6th to be presented at the Data for Good Exchange celebrated in San Francisco ([D4GX](https://www.bloomberg.com/company/d4gx/))
 
 The topic areas that the volunteers are discussing are:
 - Data Ownership and Provenance
@@ -36,7 +36,7 @@ If you want to keep up to date about what is happening in each meeting, visit th
 ---
 In order for this process to be as transparent and open as possible, we are making use of GitHub to collect ideas and suggestions from the community as a whole. This provides a quick and easy way for you to do the following-
 
-1. **Submit titles or links of literature/resources** that you have found useful in thinking about ethics and data science. You can do so at this here by forking the repo and making the change in your text editor and submitting a pull request or directly in the [resources.md](https://github.com/Data4Democracy/ethics-resources/blob/master/resources.md) file.
+1. **Submit titles or links of literature/resources** that you have found useful in thinking about ethics and data science. You can do so by forking the repo and making the change in your text editor and submitting a pull request or directly in the [resources.md](https://github.com/Data4Democracy/ethics-resources/blob/master/resources.md) file.
 
 ```
 If you are not familiar with GitHub. (.md stands for Markdown, a way to format writing on the web easily-cheatsheet link below). If you click on the link, it’ll take you to a page that only loads the resources.md file. On the right side, above the beginning of the document, there is a button with a pencil icon. This allows you edit the file and add your links without having to fork the repo to your computer, use the command line, or any other thing but the content management system built into GitHub.
