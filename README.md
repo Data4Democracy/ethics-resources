@@ -2,9 +2,34 @@
 ---
 Data for Democracy is partnering with Bloomberg and BrightHive to develop a **code of ethics for data scientists**. This code will aim to define values and priorities for overall ethical behavior, in order to **guide a data scientist in being a thoughtful, responsible agent of change**. The code of ethics is being __developed through a community-driven approach__.
 
-By hosting discussions among data scientists, we hope to better capture the diverse interests, needs, and concerns that are at play in the community, and put together a code that is truly created by data scientists, for data scientists. 
+By hosting discussions among data scientists, we hope to better capture the diverse interests, needs, and concerns that are at play in the community, and put together a code that is truly created by data scientists, for data scientists.
 
 Read more [here](http://datafordemocracy.org/projects/ethics.html).
+
+## Ethics Principles
+---
+<ul>
+    <li>Its my job to understand, mitigate and communicate the presence of bias in algorithms.</li>
+    <li>Be responsible for maximizing social benefit and minimizing harm.</li>
+    <li>Practice humility and openness.</li>
+    <li>I will know my data and help future users know it as well.</li>
+    <li>Make reasonable efforts to know and document its origins and document its transformation.</li>
+    <li>Bias will exist. Measure it. Plan for it.</li>
+    <li>Thou shalt document transparently, accessibly, responsibly,  reproducibly, and communicate.</li>
+    <li>Engaging the whole community. Do you have all relevant individuals engaged?</li>
+    <li>People before data - data scientists should use a question driven approach rather than a data-driving or methods approach. Consider personal safety and treat others the way they want to be treated.</li>
+    <li>Exercise ethical imagination.</li>
+    <li>Open by default  - use of data should be transparent and fair.</li>
+    <li>I will not over/under represent findings.</li>
+    <li>You are part of an ecosystem  understand context and provenance.</li>
+    <li>Respecting human dignity.</li>
+    <li>Respect their data even more than your own. Understand where its sources and think about the consequences of your actions.</li>
+    <li>Protecting individual and institutional privacy.</li>
+    <li>Diversity for inclusivity.</li>
+    <li>Attention to bias.</li>
+    <li>Respect for others/persons.</li>
+    <li>Be intentional as you work to create value.</li>
+</ul>
 
 ## What has been done so far?
 ---
@@ -42,7 +67,7 @@ In order for this process to be as transparent and open as possible, we are maki
 If you are not familiar with GitHub. (.md stands for Markdown, a way to format writing on the web easily-cheatsheet link below). If you click on the link, it’ll take you to a page that only loads the resources.md file. On the right side, above the beginning of the document, there is a button with a pencil icon. This allows you edit the file and add your links without having to fork the repo to your computer, use the command line, or any other thing but the content management system built into GitHub.
 ```
 
-2. **Submit links including comments on what matters to you** when creating a data science code of ethics. Open a pull request from your forked repo. 
+2. **Submit links including comments on what matters to you** when creating a data science code of ethics. Open a pull request from your forked repo.
 
 ```
 If you click the “Commit changes” button when using GitHub's content management system, you’ll get a notification from Github saying that you can’t directly contribute to the code so it has forked the repository for you and has made your changes on your branch. That might sound a bit confusing, it only means that we aren’t allowed to directly change the existing/live code or document without going through the process that verifies any proposed changes. In order for this to happen, everything is copied to your GitHub account and you make the changes on your GitHub account. If you want the changes to appear in the main project page/repo, you need to submit a pull request by following steps provided.
@@ -50,12 +75,10 @@ If you click the “Commit changes” button when using GitHub's content managem
 
 3. **Browse all the suggestions, comments and links** submitted by your fellow community members in the Discussions section. All results of these contributions can be viewed by the public, [here](https://github.com/orgs/Data4Democracy/teams/ethics) and in the master version of the resources.md file, including you.
 
-4. **Indicate which suggestions and comments you agree with** through voting via :thumbsup: or :thumbsdown: emojis in the Discussions section located **[here](https://github.com/orgs/Data4Democracy/teams/ethics)**. 
+4. **Indicate which suggestions and comments you agree with** through voting via :thumbsup: or :thumbsdown: emojis in the Discussions section located **[here](https://github.com/orgs/Data4Democracy/teams/ethics)**.
 ```
 The setup of GitHub presents you with all suggestions. However, please keep in mind that none of these suggestions are mutually exclusive; we are not pitting ideas against each other or using the number of votes to eliminate suggestions. We are simply using this as one convenient metric to determine which ideas have the most resonance in the community, or which resources/literature have been useful to a large number of people. If all suggestions presented are important to you, feel free to :thumbsup: all of them. If you have a more detailed response or would like to express your thoughts on someone else's idea, you can submit this comment in the Ethics Team's Discussion area or comment directly on their open pull request.
 ```
 This document is written and edited using GitHub flavored Markdown. It's not scary, it's very simple and they even provide a cheatsheet which you can find [*here*](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 Shout out to [Ashley Blewer's blog post](https://ablwr.github.io/blog/2014/11/03/non-technical-persons-guide-to-becoming-an-open-source-software-contributor-via-github/) for breaking down the pull request so succiently.
-
-
