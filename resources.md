@@ -63,3 +63,12 @@ Schrock, A. R. (2016) Civic hacking as data activism and advocacy: A history fro
 ## Bad examples, horror stories
 * [Expensify sent images with personal data to Mechanical Turkers, calls it a feature](https://arstechnica.com/information-technology/2017/11/expensify-acknowledges-potential-privacy-problem-by-calling-it-a-feature/)
 
+## Resources to guide ethical Data Science practices in Finance and beyond
+
+[Derman, E. Wilmott, P. (2009). The financial modeler’s manifesto.] (http://www.uio.no/studier/emner/sv/oekonomi/ECON4135/h09/undervisningsmateriale/FinancialModelersManifesto.pdf)
+
+[Taleb, N., Sandis, C. (2013). The skin in the game heuristic for protection against tail events.] (http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2298292)
+
+## Incorporate practices into a reference methodology - CRISP-DM
+
+CRSIP-DM 1.0 (https://www.the-modeling-agency.com/crisp-dm.pdf)
