@@ -12,9 +12,9 @@
 
 [https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/524298/Data_science_ethics_framework_v1.0_for_publication__1_.pdf](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/524298/Data_science_ethics_framework_v1.0_for_publication__1_.pdf)
 
-Derman, E. Wilmott, P. (2009). The financial modeler’s manifesto. (http://www.uio.no/studier/emner/sv/oekonomi/ECON4135/h09/undervisningsmateriale/FinancialModelersManifesto.pdf)
+[Derman, E. Wilmott, P. (2009). The financial modeler’s manifesto](http://www.uio.no/studier/emner/sv/oekonomi/ECON4135/h09/undervisningsmateriale/FinancialModelersManifesto.pdf)
 
-Taleb, N., Sandis, C. (2013). The skin in the game heuristic for protection against tail events. (http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2298292)
+[Taleb, N., Sandis, C. (2013). The skin in the game heuristic for protection against tail events](https://arxiv.org/pdf/1308.0958.pdf)
 
 ## Algorithmic governance
 Monmonier, M. (2005). Lying with Maps. Statistical Science, 20(3), 215-222. [pdf](http://archi-intranet.ulb.ac.be/cours/sis/conception/lyingwithmaps.pdf) [book review](http://eprints.utm.my/5014/1/How.pdf)
@@ -69,4 +69,4 @@ Schrock, A. R. (2016) Civic hacking as data activism and advocacy: A history fro
 
 ## Incorporate practices into a reference methodology - CRISP-DM
 
-CRSIP-DM 1.0 (https://www.the-modeling-agency.com/crisp-dm.pdf)
+[CRSIP-DM 1.0](https://www.the-modeling-agency.com/crisp-dm.pdf)
