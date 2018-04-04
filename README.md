@@ -11,17 +11,17 @@ Read more [here](http://datafordemocracy.org/projects/ethics.html).
 <ul>
     <li>Bias will exist. It's my responsibility to understand, mitigate and communicate the presence of bias in algorithms.</li>
     <li>It's my responsibility to increase social benefit while minimizing harm.</li>
-    <li>Practice humility and openness.</li>
+    <li>I will practice humility and openness.</li>
     <li>I will know my data and help future users know it as well.</li>
     <li>I will make reasonable efforts to know and document its origins and document its transformation.</li>
     <li>I will document transparently, accessibly, responsibly,  reproducibly, and communicate.</li>
     <li>I will strive to engage "the whole community" using, or impacted by, my work. I will try to clarify or redefine the definition of this community, on an ongoing basis. I will use skepticism and an open mind to expand this definition.</li>
     <li>I will put people before data.</li>
     <li>I will not over/under represent findings.</li>
-    <li>Data scientists should use a _question-driven approach_ rather than a _data-driving or methods approach. Data scientists should consider personal safety and <a href="https://en.wikipedia.org/wiki/Golden_Rule">treat others the way they want to be treated</a></li>
+    <li>Data scientists should use a _question-driven approach_ rather than a _data-driven_ or _methods_ approach. Data scientists should consider personal safety and <a href="https://en.wikipedia.org/wiki/Golden_Rule">treat others the way they want to be treated.</a></li>
     <li>Open by default - use of data should be transparent and fair.</li>
     <li>I am part of an ecosystem  understand context and provenance.</li>
-    <li>I will respect others' data even more than your own. I will seek to understand the sources of the data and the consequences of my actions.</li>
+    <li>I will respect others' data even more than my own. I will seek to understand the sources of the data and the consequences of my actions.</li>
     <li>I will protect individual and institutional privacy.</li>
     <li>Diversity for inclusivity.</li>
     <li>Attention to bias.</li>
