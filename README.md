@@ -1,8 +1,38 @@
 # Code of ethics
 ---
-Data for Democracy is partnering with Bloomberg and BrightHive to develop a **code of ethics for data scientists**. This code will aim to define values and priorities for overall ethical behavior, in order to **guide a data scientist in being a thoughtful, responsible agent of change**. The code of ethics is being __developed through a community-driven approach__.
+## The 5 Principles:  
+<ul>
+    <li>I COMMIT TO FAIRNESS</li>
+    <li>I COMMIT TO OPENNESS</li>
+    <li>I COMMIT TO RELIABILITY</li>
+    <li>I COMMIT TO TRUST</li>
+    <li>I COMMIT TO SOCIAL BENEFIT</li>
+</ul>
 
-By hosting discussions among data scientists, we hope to better capture the diverse interests, needs, and concerns that are at play in the community, and put together a code that is truly created by data scientists, for data scientists.
+[__Click here to join the movement today__](http://ethicspledge.wpengine.com). Become a data defender for life.   
+
+    Fairness:
+    I will make make a dedicated effort to understand, mitigate and communicate the presence of bias in both data practice and consumption.  
+
+    Openness:  
+    I will practice humility and openness. Transparent practices, community engagement, and responsible communications are an integral part of my data ethics practice.  
+
+    Reliability:  
+    I will ensure that every effort is made to glean a complete understanding of what is contained within data, where it came from, and how it was created. I will also extend this effort for future users of all data and derivative data.  
+
+    Trust:
+    I wish to build public confidence in data practitioners. I will make every effort to use data and algorithms in ways that maximize the informed participation of people around the world.  
+
+    Social Benefit:  
+    I set people before data and intend to be responsible for maximizing social benefit and minimizing harm. I will consider the impact of my work on communities of people, other living beings, ecosystems and the world-at-large.  
+
+Commit to the Pledge and help us build a movement that collectively works towards a more accountable, equitable, open, inclusive, and transparent data community. The more of us who commit to The Pledge and adopt these principles, the more leverage we have to create change in the collective work we produce and how we produce it. We can affect hearts and minds and drive policy to a better place for all.
+
+Data for Democracy’s Global Data Ethics Pledge is a global initiative aimed at creating the industry’s most widely adopted framework and community for ethics in data science.  
+
+Data for Democracy partnered with Bloomberg and BrightHive to develop a **code of ethics for data scientists, software developers and data analyzers of all types, (that means you :smile: ) **. This code aims to define values and priorities for overall ethical behavior, in order to **guide anyone handling data to be a thoughtful, responsible agent of positive change**. The code of ethics is being __developed through a community-driven approach__.
+
+By hosting discussions among our data-focused community, we hope to better capture the diverse interests, needs, and concerns that are at play in the community, and put together a code that is truly created by the data community, for data the data community.
 
 Read more [here](http://datafordemocracy.org/projects/ethics.html).
 
