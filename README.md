@@ -1,4 +1,4 @@
-# Code of Ethics
+# Global Data Ethics Pledge (GDEP)
 ---
 ## The 5 Principles:  
 <ul>
