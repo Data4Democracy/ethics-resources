@@ -32,7 +32,7 @@ Data for Democracy’s Global Data Ethics Pledge is a global initiative aimed at
 
 Data for Democracy partnered with Bloomberg and BrightHive to develop a **code of ethics for data scientists, software developers and data analyzers of all types, (that means you :smile: ) **. This code aims to define values and priorities for overall ethical behavior, in order to **guide anyone handling data to be a thoughtful, responsible agent of positive change**. The code of ethics is being __developed through a community-driven approach__.
 
-By hosting discussions among our data-focused community, we hope to better capture the diverse interests, needs, and concerns that are at play in the community, and put together a code that is truly created by the data community, for data the data community.
+By hosting discussions among our data-focused community, we hope to better capture the diverse interests, needs, and concerns that are at play in the community, and put together a code that is truly created by the data community, for the data community.
 
 Read more [here](http://datafordemocracy.org/projects/ethics.html).
 
