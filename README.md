@@ -1,4 +1,4 @@
-# Code of ethics
+# Code of Ethics
 ---
 ## The 5 Principles:  
 <ul>
