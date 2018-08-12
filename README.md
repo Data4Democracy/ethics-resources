@@ -39,26 +39,25 @@ Read more [here](http://datafordemocracy.org/projects/ethics.html).
 ## Ethics Principles
 ---
 <ul>
-    <li>Its my job to understand, mitigate and communicate the presence of bias in algorithms.</li>
-    <li>Be responsible for maximizing social benefit and minimizing harm.</li>
-    <li>Practice humility and openness.</li>
+    <li>Bias will exist. It's my responsibility to understand, mitigate and communicate the presence of bias in algorithms.</li>
+    <li>It's my responsibility to increase social benefit while minimizing harm.</li>
+    <li>I will practice humility and openness.</li>
     <li>I will know my data and help future users know it as well.</li>
-    <li>Make reasonable efforts to know and document its origins and document its transformation.</li>
-    <li>Bias will exist. Measure it. Plan for it.</li>
-    <li>Thou shalt document transparently, accessibly, responsibly,  reproducibly, and communicate.</li>
-    <li>Engaging the whole community. Do you have all relevant individuals engaged?</li>
-    <li>People before data - data scientists should use a question driven approach rather than a data-driving or methods approach. Consider personal safety and treat others the way they want to be treated.</li>
-    <li>Exercise ethical imagination.</li>
-    <li>Open by default  - use of data should be transparent and fair.</li>
+    <li>I will make reasonable efforts to know and document its origins and document its transformation.</li>
+    <li>I will document transparently, accessibly, responsibly,  reproducibly, and communicate.</li>
+    <li>I will strive to engage "the whole community" using, or impacted by, my work. I will try to clarify or redefine the definition of this community, on an ongoing basis. I will use skepticism and an open mind to expand this definition.</li>
+    <li>I will put people before data.</li>
     <li>I will not over/under represent findings.</li>
-    <li>You are part of an ecosystem  understand context and provenance.</li>
-    <li>Respecting human dignity.</li>
-    <li>Respect their data even more than your own. Understand where its sources and think about the consequences of your actions.</li>
-    <li>Protecting individual and institutional privacy.</li>
+    <li>Data scientists should use a _question-driven approach_ rather than a _data-driven_ or _methods_ approach. Data scientists should consider personal safety and <a href="https://en.wikipedia.org/wiki/Golden_Rule">treat others the way they want to be treated.</a></li>
+    <li>Open by default - use of data should be transparent and fair.</li>
+    <li>I am part of an ecosystem  understand context and provenance.</li>
+    <li>I will respect others' data even more than my own. I will seek to understand the sources of the data and the consequences of my actions.</li>
+    <li>I will protect individual and institutional privacy.</li>
     <li>Diversity for inclusivity.</li>
     <li>Attention to bias.</li>
     <li>Respect for others/persons.</li>
-    <li>Be intentional as you work to create value.</li>
+    <li>I will respect human dignity.</li>
+    <li>I will agitate my organizations and colleagues to act ethically and respect human dignity.</li>
 </ul>
 
 ## What has been done so far?
