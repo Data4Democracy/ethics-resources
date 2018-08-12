@@ -78,14 +78,6 @@ The topic areas that the volunteers are discussing are:
 - Questions and Answers
 - Thought Diversity
 
-If you want to keep up to date about what is happening in each meeting, visit this other repo for [meeting materials](https://github.com/Data4Democracy/meeting-materials).
-
-## The CPEDS Working Group Roles and Leadership Team
----
-- Lilian Huang - [**Research and Analysis**](https://docs.google.com/spreadsheets/d/14f7bxky2UgOXEmK8TH8TuRgZhXwGdTupQ-kNuPyACn8/edit?usp=drivesdk) - Working Groups Lead and coordinates volunteers through the research and literature reviews.
-- Natalie Evans Harris - [**Advisors**](https://docs.google.com/spreadsheets/d/1fNq4PX_QZ88RqsIeb5MT2ZWOmScQsFNy5A4t43lIvIU/edit?usp=drivesdk) - Initiative Lead and coordinates volunteers focused on guiding the development of the Code of Ethics, including advising on additional research areas and questions to ask of the community.
-- Erin Stein - [**Moderators/Principles**](https://docs.google.com/spreadsheets/d/14f7bxky2UgOXEmK8TH8TuRgZhXwGdTupQ-kNuPyACn8/edit?usp=drivesdk) - Coordinates volunteers in drafting the principles and moderating the working groups.
-- Danny Buerkli - [**Process**](https://github.com/orgs/Data4Democracy/teams/ethics) - Ensures an open and transparent process that is sustainable in the long-run. Our primary interactions will be through GitHub and project dashboards.
 
 ## How can you contribute with ideas?
 ---
