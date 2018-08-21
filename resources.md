@@ -16,6 +16,8 @@
 
 [Taleb, N., Sandis, C. (2013). The skin in the game heuristic for protection against tail events](https://arxiv.org/pdf/1308.0958.pdf)
 
+[Ethical OS Toolkit - Anticipating the future impact of today's technology](https://ethicalos.org/)
+
 ## Algorithmic governance
 Monmonier, M. (2005). Lying with Maps. Statistical Science, 20(3), 215-222. [pdf](http://archi-intranet.ulb.ac.be/cours/sis/conception/lyingwithmaps.pdf) [book review](http://eprints.utm.my/5014/1/How.pdf)
 
