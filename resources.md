@@ -1,3 +1,7 @@
+# Ideas from DG4x event on how to get signitures on the pledge
+
+https://docs.google.com/document/d/1BN0r9Rjihat62t2iGbORM0T_W2BjKqYmNKqPlVOrZ6w/edit?usp=sharing
+
 # Resource summaries, currently in progress
 
 [Google Drive link to resource summaries](https://drive.google.com/drive/u/0/folders/1_BJ7odgOgk4AglkXV3uQvhSkaFXURqDj)
