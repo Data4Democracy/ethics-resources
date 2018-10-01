@@ -1,7 +1,7 @@
 # Global Data Ethics Pledge (GDEP)
 ---
 
-## Working Groups for v2.0 of the Pledge are beign formed right now and you can read more about them and join on the [Working Groups page](../working-groups.md).
+## Working Groups for v2.0 of the Pledge are beign formed right now and you can read more about them and join on the [Working Groups page](https://github.com/Data4Democracy/ethics-resources/blob/master/working-groups.md).
 
 
 ## The 5 Principles:
