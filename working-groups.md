@@ -2,7 +2,7 @@
 ---
 
 ## Working Groups 2018-2019
-### [SIGN UP] HERE(https://docs.google.com/spreadsheets/d/1_D49VvbAA7vhWEJfaj3_RVTiUXsM_jRaLyZfzUK6zCM/edit?usp=sharing)
+### [SIGN UP HERE](https://docs.google.com/spreadsheets/d/1_D49VvbAA7vhWEJfaj3_RVTiUXsM_jRaLyZfzUK6zCM/edit?usp=sharing)
 
 __Ethical Marketplace__ — Generate a curated list of toolkits, checklists and case studies across industries and domains. Develop a categorization system so that others may find a tool that they need for their project.
 
@@ -24,4 +24,4 @@ __Ethical Imagination__ — This working group will think about the “what ifs�
 
 Link to Working Groups descriptions [__Google Doc__](https://docs.google.com/document/d/15R1WHSCDh-UUR9UVIRQTh0s0DeTgxfU6t_cHtcFf2BY/edit?usp=sharing)
 
-Link to the Working Groups [SIGN UP](https://docs.google.com/spreadsheets/d/1_D49VvbAA7vhWEJfaj3_RVTiUXsM_jRaLyZfzUK6zCM/edit?usp=sharing)   
+Link to the Working Groups [SIGN UP](https://docs.google.com/spreadsheets/d/1_D49VvbAA7vhWEJfaj3_RVTiUXsM_jRaLyZfzUK6zCM/edit?usp=sharing)

@@ -40,6 +40,8 @@ By hosting discussions among our data-focused community, we hope to better captu
 
 Read more [here](http://datafordemocracy.org/projects/ethics.html).
 
+### [SIGN UP HERE](https://docs.google.com/spreadsheets/d/1_D49VvbAA7vhWEJfaj3_RVTiUXsM_jRaLyZfzUK6zCM/edit?usp=sharing)
+
 ## Ethics Principles
 ---
 <ul>
