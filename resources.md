@@ -58,7 +58,8 @@ Al-Saggaf, Y., & Islam, M. Z. (2015). Data Mining and Privacy of Social Network 
 [Data Science Ethical Framework, via UK.gov](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/524298/Data_science_ethics_framework_v1.0_for_publication__1_.pdf)
 
 ## Civic Hacking
-Schrock, A. R. (2016) Civic hacking as data activism and advocacy: A history from publicity to open government data. New Media & Society, 18, 581-599.
+Schrock, A. R. (2016) Civic hacking as data activism and advocacy: A history from publicity to open government data. New Media & Society, 18, 581-599.  
+[__Copy goes here__](http://civicdataalliance.org)
 
 ## Data Privacy
 * [A Reactive Approach for Use-Based Privacy, Eleanor Birrell Fred B. Schneider, 2017](http://www.cs.cornell.edu/fbs/publications/UBP.avanance.pdf)
