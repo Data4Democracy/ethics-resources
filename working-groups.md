@@ -4,7 +4,7 @@
 ## Working Groups 2018-2019
 ### [SIGN UP HERE](https://docs.google.com/spreadsheets/d/1_D49VvbAA7vhWEJfaj3_RVTiUXsM_jRaLyZfzUK6zCM/edit?usp=sharing)
 
-__Ethical Marketplace__ — Generate a curated list of toolkits, checklists and case studies across industries and domains. Develop a categorization system so that others may find a tool that they need for their project.
+__Ethical Marketplace__ — Generate a curated list of toolkits, checklists and case studies across industries and domains. Develop a categorization system so that others can more easily find a tool that they need for their project.
 
 __Ethical Marketplace subgroups:__  Create volunteer committees of domain experts in the following: Civic Tech, Government Tech, Education/Academia, Private Industry, Social Scientists, and the Public.
 
