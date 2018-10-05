@@ -13,7 +13,7 @@
     <li>I COMMIT TO SOCIAL BENEFIT</li>
 </ul>
 
-[__Click here to join the movement today__](http://datafordemocracry.org/pledge). Become a data defender for life.
+[__Click here to join the movement today__](http://datafordemocracy.org/pledge). Become a data defender for life.
 
     Fairness:
     I will make make a dedicated effort to understand, mitigate and communicate the presence of bias in both data practice and consumption.
