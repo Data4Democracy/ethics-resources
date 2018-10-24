@@ -9,13 +9,13 @@
     <li>Bias will exist. Measure it. Plan for it.</li>
     <li>Thou shalt document transparently, accessibly, responsibly,  reproducibly, and communicate.</li>
     <li>Engaging the whole community. Do you have all relevant individuals engaged?</li>
-    <li>People before data - data scientists should use a question driven approach rather than a data-driving or methods approach. Consider personal safety and treat others the way they want to be treated.</li>
+    <li>People before data - data scientists should use a question driven approach rather than a data-driven or methods approach. Consider personal safety and treat others the way they want to be treated.</li>
     <li>Exercise ethical imagination.</li>
     <li>Open by default  - use of data should be transparent and fair.</li>
     <li>I will not over/under represent findings.</li>
     <li>You are part of an ecosystem  understand context and provenance.</li>
     <li>Respecting human dignity.</li>
-    <li>Respect their data even more than your own. Understand where its sources and think about the consequences of your actions.</li>
+    <li>Respect their data even more than your own. Understand where its source is and think about the consequences of your actions.</li>
     <li>Protecting individual and institutional privacy.</li>
     <li>Diversity for inclusivity.</li>
     <li>Attention to bias.</li>
