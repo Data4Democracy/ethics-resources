@@ -10,7 +10,7 @@
 
 [Using Ethical Reasoning to Amplify the Reach and Resonance of Professional Codes of Conduct in Training Big Data Scientists](https://link.springer.com/article/10.1007%2Fs11948-014-9613-1)  
 
-[https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/524298/Data_science_ethics_framework_v1.0_for_publication__1_.pdf](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/524298/Data_science_ethics_framework_v1.0_for_publication__1_.pdf)
+[Data Science Ethical Framework](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/524298/Data_science_ethics_framework_v1.0_for_publication__1_.pdf)
 
 [Derman, E. Wilmott, P. (2009). The financial modeler’s manifesto](http://www.uio.no/studier/emner/sv/oekonomi/ECON4135/h09/undervisningsmateriale/FinancialModelersManifesto.pdf)
 
@@ -56,8 +56,6 @@ Al-Saggaf, Y., & Islam, M. Z. (2015). Data Mining and Privacy of Social Network 
 [Majken Sander and Joerg Blumtritt – algorithm ethics = value judgements](https://www.youtube.com/watch?v=i_FojSmzkxA)
 
 [algorithmic hiring: Zeynep Tufekci](https://www.youtube.com/watch?v=i7exygaylmY)
-
-[Data Science Ethical Framework, via UK.gov](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/524298/Data_science_ethics_framework_v1.0_for_publication__1_.pdf)
 
 ## Civic Hacking
 Schrock, A. R. (2016) Civic hacking as data activism and advocacy: A history from publicity to open government data. New Media & Society, 18, 581-599.
