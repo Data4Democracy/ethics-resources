@@ -57,11 +57,15 @@ Al-Saggaf, Y., & Islam, M. Z. (2015). Data Mining and Privacy of Social Network 
 
 [algorithmic hiring: Zeynep Tufekci](https://www.youtube.com/watch?v=i7exygaylmY)
 
+[Understanding Bias in Machine Learning -- Jindong Gu and Daniela Oelke](https://mybinder.org/v2/gh/Jindong-Explainable-AI/Bias_in_Machine_Learning/master?filepath=ML_Bias.ipynb) This article explores three ways bias can be introduced to ML algorithms from the perspective of an ML practitioner. Bias plays a crucial role in influencing algorithmic decision-making (e.g. due to an imbalanced dataset, the algorithm can start to form racist stereotypes), which makes it an important topic to consider for the ethics of data science. 
+
 ## Civic Hacking
 Schrock, A. R. (2016) Civic hacking as data activism and advocacy: A history from publicity to open government data. New Media & Society, 18, 581-599.
 
 ## Data Privacy
 * [A Reactive Approach for Use-Based Privacy, Eleanor Birrell Fred B. Schneider, 2017](http://www.cs.cornell.edu/fbs/publications/UBP.avanance.pdf)
+
+* [Riazi, S. M., B. D. Rouhani, and F. Koushanfar, "Deep Learning on Private Data", to appear in IEEE Security and Privacy Magazine, 03/2018.](http://www.aceslab.org/sites/default/files/PPDL.pdf) The advent of machine learning as a service demands the need for privacy; this article discusses methods for privacy-preserving deep learning and inference.
 
 ## Data Breaches
 * [Testimony to US Congress about data breaches](https://www.troyhunt.com/heres-what-im-telling-us-congress-about-data-breaches/)
