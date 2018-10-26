@@ -76,3 +76,9 @@ Schrock, A. R. (2016) Civic hacking as data activism and advocacy: A history fro
 ## Incorporate practices into a reference methodology - CRISP-DM
 
 [CRSIP-DM 1.0](https://www.the-modeling-agency.com/crisp-dm.pdf)
+
+## Data ethics case studies
+
+* [Council for Big Data, Ethics, and Society](https://bdes.datasociety.net/)
+* [The Ethics of Using Hacked Data:Patreon’s Data Hack and Academic Data Standards](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf)
+* [A YouTube Engineer's Decision to Alter Data in the 'It Gets Better Project](https://bdes.datasociety.net/wp-content/uploads/2016/10/It-Gets-Better-Project-Case-Study.pdf)
