@@ -10,7 +10,7 @@
 
 [Using Ethical Reasoning to Amplify the Reach and Resonance of Professional Codes of Conduct in Training Big Data Scientists](https://link.springer.com/article/10.1007%2Fs11948-014-9613-1)  
 
-[https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/524298/Data_science_ethics_framework_v1.0_for_publication__1_.pdf](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/524298/Data_science_ethics_framework_v1.0_for_publication__1_.pdf)
+[Data Science Ethical Framework](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/524298/Data_science_ethics_framework_v1.0_for_publication__1_.pdf)
 
 [Derman, E. Wilmott, P. (2009). The financial modeler’s manifesto](http://www.uio.no/studier/emner/sv/oekonomi/ECON4135/h09/undervisningsmateriale/FinancialModelersManifesto.pdf)
 
@@ -56,8 +56,6 @@ Al-Saggaf, Y., & Islam, M. Z. (2015). Data Mining and Privacy of Social Network 
 [Majken Sander and Joerg Blumtritt – algorithm ethics = value judgements](https://www.youtube.com/watch?v=i_FojSmzkxA)
 
 [algorithmic hiring: Zeynep Tufekci](https://www.youtube.com/watch?v=i7exygaylmY)
-
-[Data Science Ethical Framework, via UK.gov](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/524298/Data_science_ethics_framework_v1.0_for_publication__1_.pdf)
 
 [Understanding Bias in Machine Learning -- Jindong Gu and Daniela Oelke](https://mybinder.org/v2/gh/Jindong-Explainable-AI/Bias_in_Machine_Learning/master?filepath=ML_Bias.ipynb) This article explores three ways bias can be introduced to ML algorithms from the perspective of an ML practitioner. Bias plays a crucial role in influencing algorithmic decision-making (e.g. due to an imbalanced dataset, the algorithm can start to form racist stereotypes), which makes it an important topic to consider for the ethics of data science. 
 
