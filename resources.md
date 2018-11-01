@@ -21,6 +21,8 @@
 [When Data Science Destabilizes Democracy and Facilitates Genocide - by Rachel Thomas](https://www.fast.ai/2017/11/02/ethics/)
 
 ## Algorithmic governance
+[The Public Voice Coalition - Universal Guidelines for Artificial Intelligence](https://thepublicvoice.org/ai-universal-guidelines/) - These guidelines, endorsed by Sir Tim Berners-Lee, cover basic ethical principles that should guide all AI development. They list 12 principles that all AI development should answer to in order to "maximize the benefits of AI, to minimize the risk, and to ensure the protection of human rights."
+
 Monmonier, M. (2005). Lying with Maps. Statistical Science, 20(3), 215-222. [pdf](http://archi-intranet.ulb.ac.be/cours/sis/conception/lyingwithmaps.pdf) [book review](http://eprints.utm.my/5014/1/How.pdf)
 
 Ananny, M. (2016). Toward an Ethics of Algorithms. Science, Technology & Human Values, 41(1), 93-117. doi:10.1177/0162243915606523
