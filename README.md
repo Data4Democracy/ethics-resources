@@ -108,4 +108,4 @@ The setup of GitHub presents you with all suggestions. However, please keep in m
 ```
 This document is written and edited using GitHub flavored Markdown. It's not scary, it's very simple and they even provide a cheatsheet which you can find [*here*](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-Shout out to [Ashley Blewer's blog post](https://ablwr.github.io/blog/2014/11/03/non-technical-persons-guide-to-becoming-an-open-source-software-contributor-via-github/) for breaking down the pull request so succinctly.
+Shout out to [Ashley Blewer's blog post](https://ablwr.github.io/blog/2014/11/04/non-technical-persons-guide-to-becoming-an-open-source-software-contributor-via-github/) for breaking down the pull request so succinctly.
