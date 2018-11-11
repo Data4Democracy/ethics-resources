@@ -56,7 +56,7 @@ Read more [here](http://datafordemocracy.org/projects/ethics.html).
     <li>I will not over/under represent findings.</li>
     <li>Data scientists should use a _question-driven approach_ rather than a _data-driven_ or _methods_ approach. Data scientists should consider personal safety and <a href="https://en.wikipedia.org/wiki/Golden_Rule">treat others the way they want to be treated.</a></li>
     <li>Open by default - use of data should be transparent and fair.</li>
-    <li>I am part of an ecosystem  understand context and provenance.</li>
+    <li>I am part of an ecosystem and it is my ethical obligation to produce considerate analysis conducive to standards of minimal impact and risk to communities, people, and the world</li>
     <li>I will respect others' data even more than my own. I will seek to understand the sources of the data and the consequences of my actions.</li>
     <li>I will protect individual and institutional privacy.</li>
     <li>Diversity for inclusivity.</li>
