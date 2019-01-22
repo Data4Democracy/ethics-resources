@@ -84,3 +84,5 @@ Schrock, A. R. (2016) Civic hacking as data activism and advocacy: A history fro
 * [Council for Big Data, Ethics, and Society](https://bdes.datasociety.net/)
 * [The Ethics of Using Hacked Data:Patreon’s Data Hack and Academic Data Standards](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf)
 * [A YouTube Engineer's Decision to Alter Data in the 'It Gets Better Project](https://bdes.datasociety.net/wp-content/uploads/2016/10/It-Gets-Better-Project-Case-Study.pdf)
+* [Trust and the Collection, Selection, Analysis and Interpretation of Data: A Scientist's View](http://ethics.iit.edu/eelibrary/biblio/trust-and-collection-selection-analysis-and-interpretation-data-scientists-view)
+* [Developing ethical and privacy sensitivity towards geocoded data](http://ethics.iit.edu/eelibrary/node/10040)
