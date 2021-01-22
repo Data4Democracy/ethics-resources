@@ -1,4 +1,5 @@
-# Global Data Ethics Pledge (GDEP)
+# Global Data Ethics Pledge (GDEP) [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)  
+
 ---
 
 ## Working Groups for v2.0 of the Pledge are being formed right now and you can read more about them and join on the [Working Groups page](https://github.com/Data4Democracy/ethics-resources/blob/master/working-groups.md).
